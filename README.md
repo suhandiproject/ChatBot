@@ -2,18 +2,30 @@
 Chatting Sama Bot Lebih Seru:D
 ---------------------------------------------------
 Author : Suhandi
+
 Team : IndoGhostSec99 & Cirebon Programmer Creativity
+
 Gud Ide by : Ferdiyanto
 ---------------------------------------------------
+
 +(INSTALL)+
+
 $ pkg update && pkg upgrade
+
 $ pkg install python2
+
 $ pkg install git
+
 $ pip2 install mechanize
+
 $ git clone https://github.com/CPC77/ChatBot
+
 $ cd ChatBot
+
 $ python2 ChatBot.py
+
 (CTRL + C <untuk stop>)
+  
 --------
 pratinjau:
 ---------
