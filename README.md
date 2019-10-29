@@ -27,4 +27,5 @@ CARA MASUK
 -+{ Klik Enter
 #########
 -+(untuk memulai chat ketuk)
+  
 ![Screenshot_20191029_172748](https://user-images.githubusercontent.com/53260744/67760256-8faa5a80-fa73-11e9-97a8-d62a0da526b1.jpg)
