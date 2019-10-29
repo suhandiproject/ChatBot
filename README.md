@@ -24,7 +24,7 @@ $ cd ChatBot
 
 $ python2 ChatBot.py
 
-(CTRL + C <untuk stop>)
+(CTRL + C {untuk stop})
   
 --------
 pratinjau:
