@@ -3,7 +3,7 @@ Chatting Sama Bot Lebih Seru:D
 ---------------------------------------------------
 Suport : Ferdiyanto
 
-Team : IndoGhostSec99 & Cirebon Programmer Creativity
+Team : IndoGhostSec999 & Cirebon Programmer Creativity
 
 Author : Suhandi
 ---------------------------------------------------
