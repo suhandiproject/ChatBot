@@ -1,11 +1,11 @@
 # ChatBot
 Chatting Sama Bot Lebih Seru:D
 ---------------------------------------------------
-Author : Suhandi
+Suport : Ferdiyanto
 
 Team : IndoGhostSec99 & Cirebon Programmer Creativity
 
-Gud Ide by : Ferdiyanto
+Author : Suhandi
 ---------------------------------------------------
 
 +(INSTALL)+
