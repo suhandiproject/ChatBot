@@ -3,7 +3,7 @@ Chatting Sama Bot Lebih Seru:D
 ---------------------------------------------------
 Suport : Ferdiyanto
 
-Team : IndoGhostSec999 & Cirebon Programmer Creativity
+Team : IndoGhostSec999 & REPUBLIC OF PROGRAMMER
 
 Author : Suhandi
 ---------------------------------------------------
@@ -18,7 +18,7 @@ $ pkg install git
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/CPC77/ChatBot
+$ git clone https://github.com/REPUBLIC-OF-PROGRAMMER/ChatBot
 
 $ cd ChatBot
 
