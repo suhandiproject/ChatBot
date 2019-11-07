@@ -29,7 +29,7 @@ $ python2 ChatBot.py
 --------
 pratinjau:
 ---------
-![Screenshot_20191029_173043](https://user-images.githubusercontent.com/53260744/67760208-79040380-fa73-11e9-9bb5-85a7fd806e3c.jpg)
+![Screenshot_20191107_003237](https://user-images.githubusercontent.com/53260744/68358073-f0a7f180-0149-11ea-864a-364ea01d4a9d.jpg)
 ---------
 pratinjau 2:
 ---------
@@ -40,4 +40,4 @@ CARA MASUK
 #########
 -+(untuk memulai chat ketuk)
   
-![Screenshot_20191029_172748](https://user-images.githubusercontent.com/53260744/67760256-8faa5a80-fa73-11e9-97a8-d62a0da526b1.jpg)
+![Screenshot_20191107_003115](https://user-images.githubusercontent.com/53260744/68358061-ea197a00-0149-11ea-8733-66c2e16f6047.jpg)
