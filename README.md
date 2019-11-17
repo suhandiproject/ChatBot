@@ -18,7 +18,7 @@ $ pkg install git
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/REPUBLIC-OF-PROGRAMMER/ChatBot
+$ git clone https://github.com/suhandiproject/ChatBot
 
 $ cd ChatBot
 
